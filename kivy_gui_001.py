@@ -1,5 +1,6 @@
 '''
 kivy_gui_001.py
+demo by uly
 
 '''
 import kivy
